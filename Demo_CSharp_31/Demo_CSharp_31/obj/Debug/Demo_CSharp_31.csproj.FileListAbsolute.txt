@@ -1,0 +1,6 @@
+E:\Aplicaciones_NET\Demo_CSharp_31\Demo_CSharp_31\bin\Debug\Demo_CSharp_31.exe.config
+E:\Aplicaciones_NET\Demo_CSharp_31\Demo_CSharp_31\bin\Debug\Demo_CSharp_31.exe
+E:\Aplicaciones_NET\Demo_CSharp_31\Demo_CSharp_31\bin\Debug\Demo_CSharp_31.pdb
+E:\Aplicaciones_NET\Demo_CSharp_31\Demo_CSharp_31\obj\Debug\Demo_CSharp_31.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\Demo_CSharp_31\Demo_CSharp_31\obj\Debug\Demo_CSharp_31.exe
+E:\Aplicaciones_NET\Demo_CSharp_31\Demo_CSharp_31\obj\Debug\Demo_CSharp_31.pdb

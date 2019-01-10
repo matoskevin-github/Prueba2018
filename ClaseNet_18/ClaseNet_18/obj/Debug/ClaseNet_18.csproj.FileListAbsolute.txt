@@ -1,0 +1,5 @@
+E:\DATA\ClaseNet_18\ClaseNet_18\bin\Debug\ClaseNet_18.exe.config
+E:\DATA\ClaseNet_18\ClaseNet_18\bin\Debug\ClaseNet_18.exe
+E:\DATA\ClaseNet_18\ClaseNet_18\bin\Debug\ClaseNet_18.pdb
+E:\DATA\ClaseNet_18\ClaseNet_18\obj\Debug\ClaseNet_18.exe
+E:\DATA\ClaseNet_18\ClaseNet_18\obj\Debug\ClaseNet_18.pdb

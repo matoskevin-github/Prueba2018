@@ -1,0 +1,6 @@
+E:\Aplicaciones_NET\AppPOO\AppPOO\bin\Debug\AppPOO.exe.config
+E:\Aplicaciones_NET\AppPOO\AppPOO\bin\Debug\AppPOO.exe
+E:\Aplicaciones_NET\AppPOO\AppPOO\bin\Debug\AppPOO.pdb
+E:\Aplicaciones_NET\AppPOO\AppPOO\obj\Debug\AppPOO.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\AppPOO\AppPOO\obj\Debug\AppPOO.exe
+E:\Aplicaciones_NET\AppPOO\AppPOO\obj\Debug\AppPOO.pdb

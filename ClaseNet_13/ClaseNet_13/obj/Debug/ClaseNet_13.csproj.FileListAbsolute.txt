@@ -1,0 +1,6 @@
+E:\DATA\ClaseNet_13\ClaseNet_13\bin\Debug\ClaseNet_13.exe.config
+E:\DATA\ClaseNet_13\ClaseNet_13\bin\Debug\ClaseNet_13.exe
+E:\DATA\ClaseNet_13\ClaseNet_13\bin\Debug\ClaseNet_13.pdb
+E:\DATA\ClaseNet_13\ClaseNet_13\obj\Debug\ClaseNet_13.csprojResolveAssemblyReference.cache
+E:\DATA\ClaseNet_13\ClaseNet_13\obj\Debug\ClaseNet_13.exe
+E:\DATA\ClaseNet_13\ClaseNet_13\obj\Debug\ClaseNet_13.pdb

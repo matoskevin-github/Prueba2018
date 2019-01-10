@@ -1,0 +1,6 @@
+E:\Aplicaciones_NET\Demo_CSharp_19\Demo_CSharp_19\bin\Debug\Demo_CSharp_19.exe.config
+E:\Aplicaciones_NET\Demo_CSharp_19\Demo_CSharp_19\bin\Debug\Demo_CSharp_19.exe
+E:\Aplicaciones_NET\Demo_CSharp_19\Demo_CSharp_19\bin\Debug\Demo_CSharp_19.pdb
+E:\Aplicaciones_NET\Demo_CSharp_19\Demo_CSharp_19\obj\Debug\Demo_CSharp_19.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\Demo_CSharp_19\Demo_CSharp_19\obj\Debug\Demo_CSharp_19.exe
+E:\Aplicaciones_NET\Demo_CSharp_19\Demo_CSharp_19\obj\Debug\Demo_CSharp_19.pdb

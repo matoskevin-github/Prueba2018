@@ -1,0 +1,6 @@
+E:\Aplicaciones_NET\AppPOOHerencia\AppPOOHerencia\bin\Debug\AppPOOHerencia.exe.config
+E:\Aplicaciones_NET\AppPOOHerencia\AppPOOHerencia\bin\Debug\AppPOOHerencia.exe
+E:\Aplicaciones_NET\AppPOOHerencia\AppPOOHerencia\bin\Debug\AppPOOHerencia.pdb
+E:\Aplicaciones_NET\AppPOOHerencia\AppPOOHerencia\obj\Debug\AppPOOHerencia.exe
+E:\Aplicaciones_NET\AppPOOHerencia\AppPOOHerencia\obj\Debug\AppPOOHerencia.pdb
+E:\Aplicaciones_NET\AppPOOHerencia\AppPOOHerencia\obj\Debug\AppPOOHerencia.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+E:\Aplicaciones_NET\Demo_CSharp_02\Demo_CSharp_02\bin\Debug\Demo_CSharp_02.exe.config

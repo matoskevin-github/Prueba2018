@@ -1,0 +1,6 @@
+E:\DATA\ClaseNet_22\ClaseNet_22\bin\Debug\ClaseNet_22.exe.config
+E:\DATA\ClaseNet_22\ClaseNet_22\bin\Debug\ClaseNet_22.exe
+E:\DATA\ClaseNet_22\ClaseNet_22\bin\Debug\ClaseNet_22.pdb
+E:\DATA\ClaseNet_22\ClaseNet_22\obj\Debug\ClaseNet_22.csprojResolveAssemblyReference.cache
+E:\DATA\ClaseNet_22\ClaseNet_22\obj\Debug\ClaseNet_22.exe
+E:\DATA\ClaseNet_22\ClaseNet_22\obj\Debug\ClaseNet_22.pdb

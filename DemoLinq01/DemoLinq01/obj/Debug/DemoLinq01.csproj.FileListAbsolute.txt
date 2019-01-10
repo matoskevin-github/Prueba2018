@@ -1,0 +1,9 @@
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\bin\Debug\DemoLinq01.exe.config
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\bin\Debug\DemoLinq01.exe
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\bin\Debug\DemoLinq01.pdb
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\obj\Debug\DemoLinq01.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\obj\Debug\DemoLinq01.frmFacturas.resources
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\obj\Debug\DemoLinq01.Properties.Resources.resources
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\obj\Debug\DemoLinq01.csproj.GenerateResource.Cache
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\obj\Debug\DemoLinq01.exe
+E:\Aplicaciones_NET\DemoLinq01\DemoLinq01\obj\Debug\DemoLinq01.pdb

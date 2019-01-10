@@ -1,0 +1,2 @@
+E:\DATA\ClaseNet_02\ClaseNet_02\bin\Debug\ClaseNet_02.exe.config
+E:\Aplicaciones_NET\ClaseNet_02\ClaseNet_02\bin\Debug\ClaseNet_02.exe.config

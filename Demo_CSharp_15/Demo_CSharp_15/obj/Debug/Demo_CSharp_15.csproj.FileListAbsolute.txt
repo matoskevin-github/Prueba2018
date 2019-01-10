@@ -1,0 +1,5 @@
+E:\Aplicaciones_NET\Demo_CSharp_15\Demo_CSharp_15\bin\Debug\Demo_CSharp_15.exe.config
+E:\Aplicaciones_NET\Demo_CSharp_15\Demo_CSharp_15\bin\Debug\Demo_CSharp_15.exe
+E:\Aplicaciones_NET\Demo_CSharp_15\Demo_CSharp_15\bin\Debug\Demo_CSharp_15.pdb
+E:\Aplicaciones_NET\Demo_CSharp_15\Demo_CSharp_15\obj\Debug\Demo_CSharp_15.exe
+E:\Aplicaciones_NET\Demo_CSharp_15\Demo_CSharp_15\obj\Debug\Demo_CSharp_15.pdb

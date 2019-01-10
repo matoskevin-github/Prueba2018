@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index de Producto</h2>
+<hr />
+<h1>Funciona</h1>
+@ViewBag.Mensaje 
+<ul>
+    @foreach(var item in (List<string>)ViewBag.Listado)
+    {
+        <li>@item</li>
+    }
+</ul>

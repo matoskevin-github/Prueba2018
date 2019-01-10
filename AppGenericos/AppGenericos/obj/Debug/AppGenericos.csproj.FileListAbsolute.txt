@@ -1,0 +1,5 @@
+E:\Aplicaciones_NET\AppGenericos\AppGenericos\bin\Debug\AppGenericos.exe.config
+E:\Aplicaciones_NET\AppGenericos\AppGenericos\bin\Debug\AppGenericos.exe
+E:\Aplicaciones_NET\AppGenericos\AppGenericos\bin\Debug\AppGenericos.pdb
+E:\Aplicaciones_NET\AppGenericos\AppGenericos\obj\Debug\AppGenericos.exe
+E:\Aplicaciones_NET\AppGenericos\AppGenericos\obj\Debug\AppGenericos.pdb
